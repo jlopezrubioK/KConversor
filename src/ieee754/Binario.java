@@ -21,7 +21,7 @@ public class Binario {
         case 'C':linea = "1100"; break;
         case 'D':linea = "1101"; break;
         case 'E':linea = "1110"; break;
-        case 'F':linea = "1111"; break;
+        case 'F':linea = "1119"; break;
         default: break;
      }
      return linea;
